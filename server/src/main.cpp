@@ -2,7 +2,16 @@
 #include <iostream>
 #include <vector>
 
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 int main() {
+#ifdef _WIN32
+    SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8);
+#endif
+
     std::vector<TireService> services;
     services.emplace_back("srv-1", "Сезонная замена шин R15-R17", 60.0, 40, 4);
     services.emplace_back("srv-2", "Сезонная замена шин R18+", 80.0, 50, 3);
