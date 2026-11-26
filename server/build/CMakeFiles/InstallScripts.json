@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/nick1gn/tire-service-paskydos-shinos/server/build/cmake_install.cmake"
+		"/Users/yakotaa/tier-service-paskydos-shinos/server/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
