@@ -1,3 +1,3 @@
-/Users/yakotaa/tier-service-paskydos-shinos/server/build/CMakeFiles/app.dir
-/Users/yakotaa/tier-service-paskydos-shinos/server/build/CMakeFiles/edit_cache.dir
-/Users/yakotaa/tier-service-paskydos-shinos/server/build/CMakeFiles/rebuild_cache.dir
+C:/Users/nick1gn/tire-service-paskydos-shinos/server/build/CMakeFiles/app.dir
+C:/Users/nick1gn/tire-service-paskydos-shinos/server/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nick1gn/tire-service-paskydos-shinos/server/build/CMakeFiles/ZERO_CHECK.dir
